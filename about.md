@@ -29,7 +29,7 @@ Yuheng is an applied micro economist focusing on problems in the interaction of 
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: zhaoyh@bu.edu
+            Email: zhaoyh@bu.edu<br/>
             Phone: 857-209-1966
             </div>
         </div>
