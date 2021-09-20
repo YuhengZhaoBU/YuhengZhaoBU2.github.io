@@ -12,7 +12,9 @@ University, and is about to graduate in 2023; his PhD advisor was
 
 Yuheng is an applied micro economist focusing on problems in the interaction of development, labor and economic history.
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/CV_Henry.pdf)<br/>
+[Curriculum Vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/CV_Henry.pdf)<br/>
+
+[Job Market Paper: Sample JMP ![JMP as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/sample-working-paper.pdf)<br/>
 
 ---
 
