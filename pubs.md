@@ -7,10 +7,10 @@ description: Yuheng Zhao's research
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Job Market Paper">book</a></li>
-            <li><a href="#Publications">book</a></li>
-            <li><a href="#Working papers">articles</a></li>
-            <li><a href="#Research in progress (selected)">editorials</a></li>
+            <li><a href="#Job Market Paper">JMP</a></li>
+            <li><a href="#Publications">Publications</a></li>
+            <li><a href="#Working papers">Working papers</a></li>
+            <li><a href="#Research in progress (selected)">Research in progress</a></li>
         </ul>
     </div>
 </div>
