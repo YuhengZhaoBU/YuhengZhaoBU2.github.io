@@ -9,7 +9,7 @@ keywords: Yuheng, Economics, development economics, labor economics
 Yuheng Zhao is a PhD candidate in [Department of Economics](https://www.bu.edu/econ/) at Boston University. His research interests include development economics, labor economics, as well as economic history.
 
 Yuheng received a BA and MA in Econopmics in 2015 and 2017, from Peking
-University, and is about to graduate in 2023; his PhD advisor was
+University, and is about to graduate in 2023; his PhD advisor is
 [Dilip Mookherjee](http://people.bu.edu/dilipm/).
 
 Yuheng is an applied micro economist focusing on problems in the interaction of development, labor and economic history.
