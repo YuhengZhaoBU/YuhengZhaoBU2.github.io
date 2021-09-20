@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publications
-description: Karl Broman's publications
+title: research
+description: Yuheng Zhao's research
 ---
 
 <div class="navbar">
