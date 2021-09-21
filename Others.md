@@ -4,40 +4,57 @@ title: software
 description: Karl Broman's software
 ---
 
-Yuheng Zhao is a PhD candidate in [Department of Economics](https://www.bu.edu/econ/) at Boston University. His research interests include development economics, labor economics, as well as economic history.
-
-Yuheng received a BA and MA in Econopmics in 2015 and 2017, from Peking
-University, and is about to graduate in 2023; his PhD advisor is
-[Dilip Mookherjee](http://people.bu.edu/dilipm/).
-
-Yuheng is an applied micro economist focusing on problems in the interaction of development, labor and economic history.
-
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/CV_Henry.pdf)<br/>
-
----
-
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Yuheng Zhao<br/>
-            Department of Economics<br/>
-            Boston University<br/>
-            270 Bay State Rd<br/>
-            Boston, MA 02215<br/>
-            USA<br/><br/>
-
-            <div id="hide_email">
-            Email: zhaoyh@bu.edu<br/>
-            Phone: 857-209-1966
-            </div>
-        </div>
-
-        <div class="span2">
-        <a href="../pics/headshot.jpg">
-            <img src="../pics/headshot.jpg"
-                  title="Yuheng Zhao" alt="Yuheng Zhao"/></a>
-        </div>
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#Conferences">Conferences</a></li>
+            <li><a href="#Services">Services</a></li>
+            <li><a href="#Research experience">Research experience</a></li>
+        </ul>
     </div>
 </div>
+
+
+### <a name="Conferences (* if presented by coauthors)"></a>Conferences
+
+#### 2021
+
+Society of the Economics of the Household Conference (poster session), Boston University
+
+Global China Research Colloquium, Boston University*
+
+Fiscal Affair Department Seminar Series, IMF*
+
+#### 2020
+
+North East Universities Development Consortium (NEUDC), Dartmouth College
+
+The Chinese Economists Society North America Conference, MIT
+
+#### 2018
+
+World Economic History Congress, MIT
+
+Eastern Economic Association Annual Conference, Boston
+
+
+### <a name="Services"></a>Services
+
+Communication committee member of NEUDC 2021
+
+Co-fonder of the Georgetown-UBC-BU Brownbag in Development and Political Economy
+
+Co-organizer of the Development Reading Group, Boston University
+
+
+### <a name="Research experience"></a>Research experience
+
+
+#### 2020
+
+Research Assistant for Siddharth George, Boston University
+
+
+#### 2019
+
+Research Assistant for Linh T. Tˆo, Boston University
