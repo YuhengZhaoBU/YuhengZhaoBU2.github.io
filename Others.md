@@ -37,6 +37,7 @@ World Economic History Congress, MIT
 
 Eastern Economic Association Annual Conference, Boston
 
+---
 
 ### <a name="Services"></a>Services
 
@@ -46,6 +47,7 @@ Co-fonder of the Georgetown-UBC-BU Brownbag in Development and Political Economy
 
 Co-organizer of the Development Reading Group, Boston University
 
+---
 
 ### <a name="Research experience"></a>Research experience
 
