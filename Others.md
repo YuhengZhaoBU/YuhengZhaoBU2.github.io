@@ -1,7 +1,7 @@
 ---
 layout: page
-title: software
-description: Karl Broman's software
+title: Others
+description: Yuheng's exp
 ---
 
 <div class="navbar">
